@@ -1,16 +1,12 @@
-### Hi there 👋
+ ### <div align="center"><i>Olá! Eu sou a Janaina Tavares</i> 👋👩‍💻 
+</div>
 
-<!--
-**tavaresjana/tavaresjana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Estudando Programação pela Generation Brasil.
+- 🎓 Bacharel em História pela Universidade de São Paulo.
+- ⚡ Curiosidade: gosto de jogos cooperativos e de scape room.
+<br>
+<!--Icone de commits e porcentagem de linguagens-->
+<div align="center"> 
+<img height="180 cm" src="https://github-readme-stats.vercel.app/api?username=tavaresjana&show_icons=true&theme=omni"/> <img height="180 cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tavaresjana&layout=compact&langs_count=16&theme=omni"/>
+</div> 
+</div> 
