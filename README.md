@@ -1,8 +1,9 @@
  ### <div align="center"><i>Olá! Eu sou a Janaina Tavares</i> 👋👩‍💻 
 </div>
 
-- 🌱 Estudando Programação pela Generation Brasil.
-- 🎓 Bacharel em História pela Universidade de São Paulo.
+- 🌱 Estudando programação.
+- 🎓 Desenvolvedora Full Stack Jr formada pela Generation Brasil.
+- 🎓 Bacharel em História formada pela Universidade de São Paulo.
 - ⚡ Curiosidade: gosto de jogos cooperativos e de scape room.
 <br>
 <!--Icone de commits e porcentagem de linguagens-->
