@@ -9,6 +9,3 @@
 <br>
 <!--Icone de commits e porcentagem de linguagens-->
 <div align="center"> 
-<img height="180 cm" src="https://github-readme-stats.vercel.app/api?username=tavaresjana&show_icons=true&theme=omni"/><img height="180 cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tavaresjana&layout=compact&langs_count=16&theme=omni"/>
-</div>
-</div> 
