@@ -1,9 +1,9 @@
  ### <div align="center"><i>Olá! Eu sou a Janaina Tavares</i> 👋👩‍💻 
 </div>
 
-- 👩‍💻 Estudando programação.
+- 👩‍💻 Estudando Java no Bootcamp #ElasTech 2024 pela SoulCode.
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas pelo Senac.
-- 🎓 Desenvolvedora Full Stack Jr formada pela Generation Brasil.
+- 🎓 Desenvolvedora Full Stack Jr formada pela Generation Brasil (Java/Angular).
 - 🎓 Bacharel em História formada pela Universidade de São Paulo.
 - ⚡ Curiosidade: gosto de jogos cooperativos e de scape room.
 <br>
