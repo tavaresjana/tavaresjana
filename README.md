@@ -1,11 +1,12 @@
  ### <div align="center"><i>Olá! Eu sou a Janaina Tavares</i> 👋👩‍💻 
 </div>
 
-- 👩‍💻 Estudando Java no Bootcamp #ElasTech 2024 pela SoulCode.
+- 👩‍💻 Desenvolvedora Backend Java - IBM.
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas pelo Senac.
-- 🎓 Desenvolvedora Full Stack Jr formada pela Generation Brasil (Java/Angular).
-- 🎓 Bacharel em História formada pela Universidade de São Paulo.
-- ⚡ Curiosidade: gosto de jogos cooperativos e de scape room.
+- 🎓 Desenvolvedora Backend Java formada pelo Bootcamp #ElasTech 2024 pela SoulCode.
+- 🎓 Desenvolvedora Full Stack Jr formada pela Generation Brasil (Java/Angular) 2022.
+- 🎓 Bacharel em História formada pela USP - Universidade de São Paulo.
+- ⚡ Curiosidade: gosto de jogos cooperativos e de encontrar objetos perdidos.
 <br>
 <!--Icone de commits e porcentagem de linguagens-->
 <div align="center"> 
